@@ -13,7 +13,7 @@ The ERC-721 Token Symbol is: <b>JST</b>
 A Star Transaction can be found at Transaction Hash: <b>0x9dcae7b8bc49453c00512d9b26be035bab014d02ad1c1c159ee93750a9290690</b>
 
 The Rinkeby test network can be searched using either the contract address or transaction hash at:
-<b>https://rinkeby.etherscan.io<b>
+<b>https://rinkeby.etherscan.io</b>
 
 ## Software Tools
 The smart contract was built using Truffle and OpenZeppelin
