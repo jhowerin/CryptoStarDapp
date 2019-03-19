@@ -30,8 +30,9 @@ Metamask as a chrome plugin to allow browser based interaction with the Ethereum
 3. Enter truffle development console to compile and deploy the contract
 `truffle develop`<br>
 `compile` to compile<br>
+4. Deploy either locally or to the Rinkeby test network<br>
 `migrate --reset` to deploy locally<br>
 `migrate --reset --network rinkeby` to deploy to the Rinkeby test network<br>
-4. Once the contract has successfully deployed, you can run the front-end to interact with the contract<br>
+5. Once the contract has successfully deployed, you can run the front-end to interact with the contract<br>
 `cd app`<br>
 `npm run dev`<br>
