@@ -24,14 +24,14 @@ Metamask as a chrome plugin to allow browser based interaction with the Ethereum
 
 # Getting Started
 1. Clone / Download the Repository at:
-2. Install any dependencies including:
-`npm install --save truffle-hdwallet-provider`
-`npm install --save openzeppelin-solidity`
+2. Install any dependencies including:<br>
+`npm install --save truffle-hdwallet-provider`<br>
+`npm install --save openzeppelin-solidity`<br>
 3. Enter truffle development console to compile and deploy the contract
-`truffle develop`
-`compile` to compile
-`migrate --reset` to deploy locally
-`migrate --reset --network rinkeby` to deploy to the Rinkeby test network
-4. Once the contract has successfully deployed, you can run the front-end to interact with the contract
-`cd app`
-`npm run dev`
+`truffle develop`<br>
+`compile` to compile<br>
+`migrate --reset` to deploy locally<br>
+`migrate --reset --network rinkeby` to deploy to the Rinkeby test network<br>
+4. Once the contract has successfully deployed, you can run the front-end to interact with the contract<br>
+`cd app`<br>
+`npm run dev`<br>
