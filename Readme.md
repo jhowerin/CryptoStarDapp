@@ -23,7 +23,7 @@ Infura to work with the Rinkeby test network<br>
 Metamask as a chrome plugin to allow browser based interaction with the Ethereum blockchain<br>
 
 # Getting Started
-1. Clone / Download the Repository at:
+1. Clone / Download the Repository at: <b>https://github.com/jhowerin/CryptoStarDapp</b><br>
 2. Install any dependencies including:<br>
 `npm install --save truffle-hdwallet-provider`<br>
 `npm install --save openzeppelin-solidity`<br>
