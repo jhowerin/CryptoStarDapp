@@ -16,11 +16,11 @@ The Rinkeby test network can be searched using either the contract address or tr
 <b>https://rinkeby.etherscan.io</b>
 
 ## Software Tools
-The smart contract was built using Truffle and OpenZeppelin
-Truffle version: <b>v5.0.7</b>
-OpenZeppelin version: <b>2.1.2</b>
-Infura to work with the Rinkeby test network
-Metamask as a chrome plugin to allow browser based interaction with the Ethereum blockchain
+The smart contract was built using Truffle and OpenZeppelin<br>
+Truffle version: <b>v5.0.7</b><br>
+OpenZeppelin version: <b>2.1.2</b><br>
+Infura to work with the Rinkeby test network<br>
+Metamask as a chrome plugin to allow browser based interaction with the Ethereum blockchain<br>
 
 # Getting Started
 1. Clone / Download the Repository at:
